@@ -8,7 +8,7 @@
 open the terminal and follow the white rabbit.
 
 ```
-git clone https://github.com/gurkanakdeniz/example-flask-crud.git
+git clone https://github.com/rohitpythoncoding/simple-flask-crud
 ```
 ```
 cd simple-flask-crud/
